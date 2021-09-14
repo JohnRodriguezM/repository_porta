@@ -1,0 +1,40 @@
+.header_principal_section--div--h1 {
+        
+    width:165px;}
+
+.header_principal_section--div--h1 h1{
+    
+font-size: 1.6rem;}
+
+.header_principal_section--div--h1 p{
+   
+font-size: 1.45rem;}
+
+
+.header_nav_bar ul img{
+    width:22px;
+    height: 22px;}
+
+
+
+    .header_nav_bar p{
+        
+        font-size:1.45rem;
+    }
+
+
+    .footer-ul li{
+        font-size:1.6rem;
+    }
+    span{
+        padding-left: 35px;
+    }
+
+    @media(min-width:425px){
+        .header_principal_section--div--h1 {
+            
+            width:200px;}
+    }
+    
+
+/*-------------------------------*/
